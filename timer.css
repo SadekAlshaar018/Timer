@@ -1,0 +1,11 @@
+*{
+  background-color: pink;
+}
+#res{
+    padding-top: 2em;
+    text-align: center;
+}
+h1{
+  font-size: 5em;
+  color: #333;
+}
